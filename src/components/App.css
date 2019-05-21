@@ -1,0 +1,14 @@
+table {
+  margin: auto;
+  text-align: center;
+  border-collapse: collapse;
+}
+thead:first-child td {
+  font-weight: normal;
+  min-width: 100px;
+}
+input:hover,
+button:enabled:hover,
+select:hover {
+  background-color: #fff;
+}
